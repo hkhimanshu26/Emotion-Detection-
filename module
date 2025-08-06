@@ -1,0 +1,6 @@
+Modules imported:
+· os: Interacts with the operating system for file and path management.
+· numpy: Handles numerical computations and array manipulations. 
+· cv2 (OpenCV): A library for computer vision tasks, like reading images and detecting faces.
+· tensorflow: For building and training the deep learning model.
+· sklearn: For preprocessing tasks such as label encoding and dataset splitting.
